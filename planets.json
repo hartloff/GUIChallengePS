@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mercury",
+    "image": "images/NASAmercury.jpg",
+    "diameter": 4879,
+    "orbital period": 88.0
+  },
+  {
+    "name": "Venus",
+    "image": "images/NASAvenus.jpg",
+    "diameter": 12104,
+    "orbital period": 224.7
+  },
+  {
+    "name": "Earth",
+    "image": "images/NASAearth.jpg",
+    "diameter": 12756,
+    "orbital period": 365.2
+  },
+  {
+    "name": "Mars",
+    "image": "images/NASAmars.jpg",
+    "diameter": 6792,
+    "orbital period": 687.0
+  },
+  {
+    "name": "Jupiter",
+    "image": "images/NASAjupiter.jpg",
+    "diameter": 142984,
+    "orbital period": 4331.0
+  },
+  {
+    "name": "Saturn",
+    "image": "images/NASAsaturn.jpg",
+    "diameter": 120536,
+    "orbital period": 10747.0
+  },
+  {
+    "name": "Uranus",
+    "image": "images/NASAuranus.jpg",
+    "diameter": 51118,
+    "orbital period": 30589.0
+  },
+  {
+    "name": "Neptune",
+    "image": "images/NASAneptune.jpg",
+    "diameter": 49528,
+    "orbital period": 59800.0
+  },
+  {
+    "name": "Pluto",
+    "image": "images/NASApluto.jpg",
+    "diameter": 2370,
+    "orbital period": 90560.0
+  }
+]
